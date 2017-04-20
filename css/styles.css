@@ -190,5 +190,11 @@ li a {
 }
 
 
-
+p#oneliner{
+	position: absolute;
+    color: white;
+    margin-top: 39px;
+    background-color: #111;
+    font-size: 15px;
+}
 
